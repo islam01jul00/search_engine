@@ -1,0 +1,3 @@
+Python => p1:1; p2:6; total:6
+JS => p2:2; total:2
+Java => p5:1; total:1
